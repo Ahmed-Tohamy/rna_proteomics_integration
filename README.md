@@ -23,7 +23,7 @@ This script expects **two CSV files** with the following columns:
 GeneID, log2FoldChange, p-value
 
 2. **Proteomics Data (`proteomics_data.csv`)**
-GeneID, log2FoldChange, PValue
+GeneID, log2FoldChange, p-Value
 
 
 ---
